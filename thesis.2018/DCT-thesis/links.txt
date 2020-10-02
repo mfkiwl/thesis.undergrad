@@ -1,0 +1,9 @@
+1. https://www.math.cuhk.edu.hk/~lmlui/dct.pdf
+
+2. https://www.mathematica-journal.com/issue/v4i1/article/81-88_Watson.mj.pdf
+
+3. https://bugra.github.io/work/notes/2014-07-12/discre-fourier-cosine-transform-dft-dct-image-compression/
+
+4. https://inst.eecs.berkeley.edu/~ee123/sp16/Sections/JPEG_DCT_Demo.html
+
+5. https://epubs.siam.org/doi/pdf/10.1137/S0036144598336745

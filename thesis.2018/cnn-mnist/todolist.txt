@@ -1,0 +1,5 @@
+1. 文献翻译，大概5000字左右。cnn_tutorial.pdf
+
+2. 初步建立CNN python 语言框架。
+
+

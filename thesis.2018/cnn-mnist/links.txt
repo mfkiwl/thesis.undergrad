@@ -1,0 +1,11 @@
+1. https://www.zybuluo.com/hanbingtao/note/485480
+
+2. http://neuralnetworksanddeeplearning.com/chap2.html
+   Github:
+   https://github.com/mnielsen/neural-networks-and-deep-learning
+
+3. http://deeplearning.net/tutorial/lenet.html#
+
+4. https://cs231n.github.io/classification/
+
+

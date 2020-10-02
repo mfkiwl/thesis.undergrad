@@ -1,0 +1,15 @@
+# The materials needed to read:
+
+1.  An Overview of Regularization Techniques in Deep Learning (with Python code)
+    https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/
+
+2.  Dropout: a simple way to prevent neural networks from overfitting
+    Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, 
+    and Ruslan Salakhutdinov. Journal of Machine Learning Research, 2014
+    (15):1929-1958
+
+3.  neural networks and deep learning
+    http://neuralnetworksanddeeplearning.com/chap3.html
+
+4.  Github:
+    https://github.com/mnielsen/neural-networks-and-deep-learning

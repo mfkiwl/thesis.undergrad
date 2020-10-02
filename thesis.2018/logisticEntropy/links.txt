@@ -1,0 +1,11 @@
+# material needed to be read
+
+1. 统计学习方法，李航。第六章
+
+2. http://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect09.pdf
+
+3. http://cs229.stanford.edu/notes/cs229-notes1.pdf
+
+4. http://ai.stanford.edu/~amaas/papers/amaas_aaai.pdf
+
+
